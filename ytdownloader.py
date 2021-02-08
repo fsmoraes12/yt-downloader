@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/python3
 # autor: Felipe Moraes email: lipe12302@gmail.com
 # descricao: aplicacao simples de CLI para downloads de videos do YouTube.
 from pytube import YouTube
